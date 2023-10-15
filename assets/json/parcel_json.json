@@ -1,0 +1,8 @@
+{
+  "id": 111,
+  "originAddress": "originalAddress",
+  "destinationAddress": "destinationAddress",
+  "currencySymbol": "$",
+  "totalPrice": 1000,
+  "createdAt": "13-2-2022"
+}

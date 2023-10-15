@@ -1,0 +1,75 @@
+# Driver app
+
+- [ ] Login Screen
+  - [x] main ui
+  - [x] add language bottom sheet
+  - [ ] state mgmt
+    - [ ] start login event
+      - [x] handle success
+      - [ ] handle loading
+      - [ ] handle error
+        - [x] solve the fluttertoast background color issue
+    - [x] toggle visibility event
+    - [ ] keep me logged in
+    - [ ] forget password
+- [ ] home screen
+  - [x] buttons & icons & toggle
+  - [x] default bottomsheet
+    - [x] story card Molecule
+    - [x] balance molecule
+    - [x] benefit molecule
+  - [ ] delivery bottomsheet
+    - [x] main ui
+    - [ ] refactoring
+  - [x] parcel bottom sheet
+  - [ ] map
+    - [x] main stuff
+    - [x] make a bitmap icon for the car marker
+    - [ ] control the size of the icon
+  - [x] delivery bottomsheet
+  - [x] parcel bottomsheet
+- [x] profile screen
+  - [x] body
+    - [x] main ui
+    - [x] balance icon
+  - [x] appbar issue
+- [x] orders screen
+  - [x] pop button
+  - [x] deliveries appbar
+  - [x] order card
+    - [x] main ui
+    - [x] credit card icon issue
+  - [x] orders list
+  - [x] details bottom sheet
+  - [x] foods bottom sheet
+- [ ] parcels screen
+  - [x] deliveries template
+  - [x] parcel card
+  - [ ] parcel details bottom sheet
+    - [x] main ui
+    - [ ] order button functionality
+- [x] stories screenv
+- [ ] profile screen
+  - [x] language bottom sheet
+  - [x] body
+  - [ ] settings bottom sheet
+    - [x] main ui
+    - [ ] edit car bottom sheet
+  - [x] appbar issue
+  - [x] logout bottom sheet
+- [x] order history screen
+  - [x] body
+  - [x] details bottom sheet
+  - [x] filter bottom sheet
+    - [x] filter button
+- [x] parcel history screen
+  - [x] main ui
+  - [x] filter bottom sheet
+- [ ] income screen
+  - [x] income appbar
+  - [x] income tabbar
+  - [x] last order molecule
+  - [x] income item
+  - [x] statistics organism
+    - [x] statistics item
+  - [ ] chart organism

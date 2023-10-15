@@ -1,0 +1,5 @@
+flutter_native_splash:
+  image: assets/images/tot_logo.png
+  color: "#ffffff"
+  # fill:
+  android: true
